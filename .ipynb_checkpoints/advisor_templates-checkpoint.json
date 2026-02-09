@@ -1,0 +1,11 @@
+[
+  {
+    "template": "Given CGPA {cgpa} and missing prereq {missing_course}, acknowledge stress and recommend two lighter-load courses aligned with {interest}."
+  },
+  {
+    "template": "With CGPA {cgpa} and {credits_left} credits remaining, discuss eligibility for {opportunity} and propose next steps."
+  },
+  {
+    "template": "Affirm concerns about workload; with CGPA {cgpa}, suggest planning support and pacing. Offer office hours and concrete next step tied to {interest}."
+  }
+]

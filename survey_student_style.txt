@@ -1,0 +1,941 @@
+[Student 1]
+Conflicts: Hobbies and fun, sleeping, personal relationships.
+Resolve: Try to focus entirely on schoolwork during dedicated time for it. Spare time if any then for other activities.
+If left: Independently teach myself programming on my own time.
+Leave-Reason-Other: nan
+
+[Student 2]
+Conflicts: Clubs and work, both of which take up great homework time.
+Resolve: Struggle to complete homework to get the grade.
+If left: No idea
+Leave-Reason-Other: nan
+
+[Student 3]
+Conflicts: A full time job and sleep
+Resolve: I operate on low amounts of sleep and use almost all my time not at my full time job working on schoolwork.
+If left: Not sure
+Leave-Reason-Other: nan
+
+[Student 4]
+Conflicts: Being with friends
+Resolve: Reschedule or put off hanging out with friends
+If left: Maybe engineering or visual art.
+Leave-Reason-Other: nan
+
+[Student 5]
+Conflicts: sleep
+Resolve: get as much as of the school work done as i can
+If left: Probably come back and try again. or start in another path in computing.
+Leave-Reason-Other: nan
+
+[Student 6]
+Conflicts: Personal Relationships, Hobbies and Fun
+Resolve: Reduce time on those activities
+If left: Go back to my old job
+Leave-Reason-Other: nan
+
+[Student 7]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 8]
+Conflicts: Work, professional development, and personal relationships.
+Resolve: Neglecting one or the other depending on determined importance of the conflicting activity or schoolwork.
+If left: Try to continue pursuing a career in computer science, likely with less success due to a lack of accountability and time.
+Leave-Reason-Other: nan
+
+[Student 9]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 10]
+Conflicts: nan
+Resolve: Rearrange my schedule
+If left: Go to a 2 year program and become a robotics technician
+Leave-Reason-Other: nan
+
+[Student 11]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 12]
+Conflicts: English and Math and Geology
+Resolve: do fixed homework first than any creative process work later
+If left: Pursue Work in the Trades
+Leave-Reason-Other: nan
+
+[Student 13]
+Conflicts: Gym and Work
+Resolve: Set Gym aside for school work but never work for school work
+If left: Pursue trade school
+Leave-Reason-Other: nan
+
+[Student 14]
+Conflicts: nan
+Resolve: nan
+If left: CIVIL ENGINEERINHG
+Leave-Reason-Other: nan
+
+[Student 15]
+Conflicts: Work
+Resolve: Structure out my homework for the week and look at my work schedule that week and plan accordingly
+If left: Go full time at current employment
+Leave-Reason-Other: nan
+
+[Student 16]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 17]
+Conflicts: nan
+Resolve: I dont
+If left: Economics
+Leave-Reason-Other: nan
+
+[Student 18]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 19]
+Conflicts: nan
+Resolve: nan
+If left: Work full time until I had the time, money, and energy to return or transfer to a different program
+Leave-Reason-Other: nan
+
+[Student 20]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 21]
+Conflicts: Me finding the time to be a person
+Resolve: I don’t do things that make me happy
+If left: Serve
+Leave-Reason-Other: nan
+
+[Student 22]
+Conflicts: nan
+Resolve: nan
+If left: Modeling or YouTube
+Leave-Reason-Other: nan
+
+[Student 23]
+Conflicts: Personal relationships, exercise, eating and cooking, sleeping, church.
+Resolve: Usually end up having to sacrifice activity to make more time for school work.
+If left: Try to find a job using my previous degree in biology.
+Leave-Reason-Other: nan
+
+[Student 24]
+Conflicts: Hobbies and fun
+Resolve: I spend too long doing something and then I stay up late doing homework that I could have done during the day
+If left: Electrician or a trade job
+Leave-Reason-Other: nan
+
+[Student 25]
+Conflicts: Sleep and other activities/volunteer work
+Resolve: Cut back on them
+If left: I have no idea. Computing already is my plan B (from medicine).
+Leave-Reason-Other: nan
+
+[Student 26]
+Conflicts: Sleep and other activities/volunteer work.
+Resolve: Cut back on them.
+If left: I have no idea. Computing already is my plan B (from medicine)
+
+(please disregard my previous entry to this survey; I'm redoing it because I forgot to copy the code to the raffle.)
+Leave-Reason-Other: nan
+
+[Student 27]
+Conflicts: personal relations
+Resolve: personal planner
+If left: im not sure
+Leave-Reason-Other: not sure
+
+[Student 28]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 29]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 30]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 31]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 32]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 33]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 34]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 35]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 36]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 37]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 38]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 39]
+Conflicts: Household Responsibilities, Sleeping ,Exercise
+Resolve: I spend less time on those activities and more time on the homework
+If left: Manufacturing, IST, Electrician, or other things that might have to do with technology
+Leave-Reason-Other: nan
+
+[Student 40]
+Conflicts: Exercise, Sleeping, Household Responsibilities
+Resolve: By spending less time on those activities
+If left: I would probably learn a trade, like carpenter, electrician, or manufacturing
+Leave-Reason-Other: nan
+
+[Student 41]
+Conflicts: work
+Resolve: can't not work, need money to live
+If left: Be one of those electricians who climb radio towers.
+Leave-Reason-Other: nan
+
+[Student 42]
+Conflicts: Personal Relationships and work
+Resolve: I treat the days I work as if nothing else school-related can be done on them. This way I get all of my homework done by the weekend (I work Saturday and Sunday) so I don't have to worry about work taking up time I could use for school. For personal relationships, I often find myself too busy between school and work to have a meaningful amount of time to spend on personal relationships. Much of my social and personal relationships are maintained through school or seeing friends on special occasions.
+If left: I have no other plan as I love computer science and want to be a software engineer. If I was forced to leave I would just work my current customer service job full time until I found something else to do.
+Leave-Reason-Other: nan
+
+[Student 43]
+Conflicts: household responsibilities, work
+Resolve: reduce time on activity, unless it affects other ppl (grocery shopping for family)
+If left: kms
+Leave-Reason-Other: nan
+
+[Student 44]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 45]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 46]
+Conflicts: Work
+Resolve: Try to do school work at work
+If left: Somthing in data science so I wouldn’t have to code as much
+Leave-Reason-Other: nan
+
+[Student 47]
+Conflicts: Work
+Resolve: Worked more other days
+If left: Idk
+Leave-Reason-Other: nan
+
+[Student 48]
+Conflicts: Usually chores and housework, I find it hard to do work in an unclean enviornment and I often spend more time doing that than actually doing the work.
+Resolve: Usually it ends up with less time for schoolwork.
+If left: No idea
+Leave-Reason-Other: nan
+
+[Student 49]
+Conflicts: Personal relationships and hobbies
+Resolve: once or twice a week
+If left: Probably something finance or math related
+Leave-Reason-Other: nan
+
+[Student 50]
+Conflicts: Hanging out with friends/family is usually the first to go, unfortunately.
+Resolve: I spend less time hanging out and more time on schoolwork.
+If left: Probably a degree in Data Science.
+Leave-Reason-Other: nan
+
+[Student 51]
+Conflicts: Mostly hobbies (i.e. playing video games).
+Resolve: I stop playing video games.
+If left: Mathematics, exclusively.
+Leave-Reason-Other: nan
+
+[Student 52]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 53]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 54]
+Conflicts: Exercise, personal relationships, eating/cooking, hobbies/fun, household responsibilities, sleeping
+Resolve: Sacrifice sleep
+If left: Try to become a farmer
+Leave-Reason-Other: nan
+
+[Student 55]
+Conflicts: Sleeping. If I do not sleep, I will not study well. So I choose to sleep.
+Resolve: I just choose to sleep.
+If left: Go into public health or statistics.
+Leave-Reason-Other: nan
+
+[Student 56]
+Conflicts: As a member of the university's track and field team, I usually spend at least 16 hours a week training so Athletics is definitely my biggest conflict.
+Resolve: I try to cut out other distractions, such as time on my phone so I can focus on schoolwork.
+If left: If I left my computing program it would probably just be so I could switch to Investment Banking/Finance as that was mt second choice major.
+Leave-Reason-Other: nan
+
+[Student 57]
+Conflicts: Employment
+Resolve: Trying to reduce hours working, and also pushing back on sleep on nights I have work.
+If left: Engineering
+Leave-Reason-Other: nan
+
+[Student 58]
+Conflicts: Besides sleep and eating, almost every activity conflicts with schoolwork.
+Resolve: I often resolve the conflict by reducing the activity time to focus on school work.
+If left: If I were to leave the computing program, I would most likely still pursue a computing degree but as a secondary degree while obtaining my CCNA certification.
+Leave-Reason-Other: nan
+
+[Student 59]
+Conflicts: All the activities I do can overlap with my studies. Most of the time I prioritize school.
+Resolve: I just accept it.
+If left: If I were to leave, I would keep computer science as a minor and then maybe pursue design as a major. But I'm worried about having to spend more time in university and that it'll disappoint my parents.
+Leave-Reason-Other: I feel like I suck at computer science.
+
+[Student 60]
+Conflicts: Exercise/Working out. The Gym at UWM is tiny for the student population and after 4pm it’s usually packed with people. The only good time to go is in the morning. So if I wanna work out for the day I have to prioritize it over hw in the morning.
+Resolve: I just think about how I can rearrange my schedule for the day to fit everything in.
+If left: Start businesses.
+Leave-Reason-Other: nan
+
+[Student 61]
+Conflicts: Every Friday for the past 10-15 years I game with a group of friends from around 3-10pm.
+Resolve: I will cancel if I have more schoolwork that week.
+If left: I won’t be leaving, but I would probably increase my availability at work and finish personal projects while trying to get a job in the same field.
+Leave-Reason-Other: nan
+
+[Student 62]
+Conflicts: My girlfriend
+Resolve: Hang out with my girlfriend
+If left: Engineering
+Leave-Reason-Other: nan
+
+[Student 63]
+Conflicts: Hobbies and Sleeping
+Resolve: do less of them
+If left: Work
+Leave-Reason-Other: nan
+
+[Student 64]
+Conflicts: Hobbies like watching tv or readings
+Resolve: reducing time on activities.
+If left: Work full time
+Leave-Reason-Other: nan
+
+[Student 65]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 66]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 67]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 68]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 69]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 70]
+Conflicts: Sleeping, cooking and socializing, RA job
+Resolve: Less sleep, fast food, talk with profs about alternative times
+If left: Sociology or something with art
+Leave-Reason-Other: nan
+
+[Student 71]
+Conflicts: Sleeping
+Resolve: Reducing Personal time
+If left: Be a full time musician
+Leave-Reason-Other: nan
+
+[Student 72]
+Conflicts: My participation in the open-source Apache Trafficserver project and my work on programming tutorials for my friends conflict frequently.
+Resolve: I have stopped contributing to Apache Trafficserver so far this semester and have reduced activity writing programming tutorials to when I have free time after my homework is finished.
+If left: Work as a software developer. I am an Apache Committer and Yahoo and Apple both want to hire me - I would not have a problem getting a job.
+Leave-Reason-Other: Loss of degree value
+
+[Student 73]
+Conflicts: nan
+Resolve: nan
+If left: I’m minoring in computer science so I would do biomedical science
+Leave-Reason-Other: nan
+
+[Student 74]
+Conflicts: Hobbies and games
+Resolve: Make time for games to relax from schoolwork
+If left: Most likely major in something else, but it would still be technology based.
+Leave-Reason-Other: nan
+
+[Student 75]
+Conflicts: I must say Sleeping and Hobbies conflict with it the most.
+Resolve: Most of the time, I end up spending an excessive amount of time on either task to "catch up". Or if allowed, I hold umit off for tomorrow.
+If left: I would find a career that is valid with my Associates in Arts and Sciences degree and spend more time re-evaluating my values and pursuing my hobbies/interests.
+Leave-Reason-Other: Likely a combination of "not doing well enough academically" and "to pursue other interests"
+
+[Student 76]
+Conflicts: The desire to hang out on campus can get in the way of completing schoolwork while on campus. I try to stay focused on schoolwork.
+Resolve: I realize I can have fun later and I will still have my friends later, even if I can't hang out with them right then.
+If left: Music or arts.
+Leave-Reason-Other: nan
+
+[Student 77]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 78]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 79]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 80]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 81]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 82]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 83]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 84]
+Conflicts: Sleeping, personal relationships, and hobbies.
+Resolve: I normally don't, I always make school the priority until I can't anymore (i.e. being too tired and needing to sleep, doing so much school work at once that my brain just kinda stops working and it becomes useless to keep trying)
+If left: I honesty have no idea at this point because nothing has my interest as much as compsci. Maybe mathematics?
+Leave-Reason-Other: nan
+
+[Student 85]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 86]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 87]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 88]
+Conflicts: Research, work, hobbies and being with friends and families.
+Resolve: School always comes first, my general rule of thumb is to prioritize coursework until I am finished with it. Which never happens.
+If left: I do Mathematics as well, I'd probably go into engineering or physics, something more rigorous.
+Leave-Reason-Other: nan
+
+[Student 89]
+Conflicts: Sleep
+Resolve: I get less sleep
+If left: Trade school
+Leave-Reason-Other: nan
+
+[Student 90]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 91]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 92]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 93]
+Conflicts: Work Obligations, since having a job will cause problems for school, depending on the class. If stuff is due on an inconvenient day, then tough luck. If an online class is poorly setup than you are out of luck.
+Resolve: If you have to take a class, then it is time to do class work when you get back and deal with the time crunch. Generally, work does not really budge on time. So if the class is not friendly to people who work, then you have to deal with the rough times. Also, sometimes the professors forget that students have a life and responsibilities outside of class. Sometimes, even the professors blame the students, as happened in a prior semester very early on.
+If left: Trades
+Leave-Reason-Other: nan
+
+[Student 94]
+Conflicts: Sleeping and eating/cooking. Mostly sleep, though, because I sleep a lot and have poor mental health and stability otherwise.
+Resolve: I attempt to do some schoolwork, but will sleep if I find myself being too unproductive. I often rely on others to make food for me because I'm stuck at my desk (I also do not enjoy cooking whatsoever). If I'm on my own, I'll eat bread and coffee (no to little time to prepare foods).
+If left: Probably start rationing my food and helplessly become a fast food worker or something depressing like that, mulling over the economic state of the US, and just deaingl with having zero disposable income whatsoever because school does not feel worth the time/effort if this doesn't work out.
+Leave-Reason-Other: Not valuable degree anymore, sense of hopelessness for this career field
+
+[Student 95]
+Conflicts: Leisure time is what mostly has a conflict.  I usually have cut back on activities such as gaming.  Spending time with family and friends also is cut back.  During the semester, a lot of my free time is spent on schoolwork.
+Resolve: I have a set of priorities, and I have placed schoolwork at one of the top priorities.  This means that I cut back the lower priority activities in my life.  For me, work, school, and my basic human needs are at the same lever.  This means I do everything I can to not cut back on these activities.
+If left: I would continue to work in IT as a network admin.
+Leave-Reason-Other: nan
+
+[Student 96]
+Conflicts: Sleep, household responsibilities, and cooking/eating
+Resolve: I typically prioritize getting schoolwork completed and trying to find a way to make up time on the other responsibilities elsewhere.
+If left: Continue at my current job and put more focus on moving upward within the company.
+Leave-Reason-Other: nan
+
+[Student 97]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 98]
+Conflicts: Work
+Resolve: Going to work and trying to do school work at work
+If left: Anything else that would make me happier
+Leave-Reason-Other: nan
+
+[Student 99]
+Conflicts: Hobbies and fun
+Resolve: Reduced time on hobbies and fun
+If left: Whatever that interest is
+Leave-Reason-Other: nan
+
+[Student 100]
+Conflicts: Work.
+Resolve: Unless it’s absolutely necessary (like work) I will usually cut back on the activity.
+If left: Probably a part time job, and self teach.
+Leave-Reason-Other: Note enough time, not academically accomplishing, and financial challenges (as tuition and insurance goes up)
+
+[Student 101]
+Conflicts: nan
+Resolve: nan
+If left: I would look for work instead. Finances are the main hurdle for me, not time.
+Leave-Reason-Other: nan
+
+[Student 102]
+Conflicts: nan
+Resolve: nan
+If left: Try to find a job in the trades that interests me.
+Leave-Reason-Other: nan
+
+[Student 103]
+Conflicts: Work because its a late shift and right after school.
+Resolve: I try to work on it after work but I'm too tired sometimes so I try to sleep early to wake up early to give me time to work on it.
+If left: Computer engineering
+Leave-Reason-Other: Too oversaturated, job hunting is hard.
+
+[Student 104]
+Conflicts: Work
+Resolve: Stay up late
+If left: Electrician
+Leave-Reason-Other: nan
+
+[Student 105]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 106]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 107]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 108]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 109]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 110]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 111]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 112]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 113]
+Conflicts: nan
+Resolve: nan
+If left: Like dancing or other engineering
+Leave-Reason-Other: nan
+
+[Student 114]
+Conflicts: Sleeping
+Resolve: Staying up
+If left: Dentistry
+Leave-Reason-Other: nan
+
+[Student 115]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 116]
+Conflicts: Volunteer work and my weekly DND session
+Resolve: Not go to DND, skip taekwondo
+If left: Certified Flight Instructor and Advanced Ground Instructor, potentially moving to the airlines
+Leave-Reason-Other: nan
+
+[Student 117]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 118]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 119]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 120]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 121]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 122]
+Conflicts: Cooking and caretaking
+Resolve: Eat pre-made stuff when needed, although I don't like spending the extra money. I just spend less time on hobbies and things I enjoy doing when I'm caretaking, as it is something I can't reduce at this time.
+If left: I think I would work full-time at the coffee shop I'm working at right now. I would either go for a two year program simultaneously, or I would save up to go back to a computing program,  and work on technical skills in the meantime.
+Leave-Reason-Other: nan
+
+[Student 123]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 124]
+Conflicts: Work and chores.
+Resolve: Better planning and time management
+If left: I’m currently working full time as an electronics technician for a major medical equipment manufacturer. The only effect leaving the program would have on my life is limiting my upward mobility, which is the ultimate reason I’m back in school at my age.
+Leave-Reason-Other: nan
+
+[Student 125]
+Conflicts: nan
+Resolve: nan
+If left: Entrepreneurship
+Leave-Reason-Other: nan
+
+[Student 126]
+Conflicts: Hobbies/Personal Relationships
+Resolve: I don't, I just do my class work.
+If left: I don't know.
+Leave-Reason-Other: nan
+
+[Student 127]
+Conflicts: Hobbies/Fun
+Resolve: Reduce time on activity or try speed through schoolwork
+If left: Maybe something with computer engineering or a life science
+Leave-Reason-Other: nan
+
+[Student 128]
+Conflicts: Other work, personal relationships, household responsibilities
+Resolve: I usually cut back on the other activities
+If left: Focus on my other work
+Leave-Reason-Other: nan
+
+[Student 129]
+Conflicts: Personal Relationships
+Resolve: I try my best to keep regular communication with those who are close, but if I can’t I tell them that contact may be minimal due to my studies.
+If left: I have no idea.
+Leave-Reason-Other: nan
+
+[Student 130]
+Conflicts: Sleep
+Resolve: Cutting back on sleep by, at most, 2 hours
+If left: Likely another degree, likely Electrical Engineering.
+Leave-Reason-Other: nan
+
+[Student 131]
+Conflicts: Hobbies, fun, relationships
+Resolve: Education is the priority, so other things get left aside.
+If left: nan
+Leave-Reason-Other: I won't be leaving. I started this path and will finish it.
+
+[Student 132]
+Conflicts: Personal relationships
+Resolve: Pushing back work
+If left: Stop attending to focus on my work
+Leave-Reason-Other: nan
+
+[Student 133]
+Conflicts: Socializing, and maintaining friendships/personal relationships during the school year. The second thing that drops off the most for school work is meal prep/healthy eating.
+Resolve: Typically, I have conversations with people important to me about the importance of focusing on my education, so they know I will have less time. This way, when I do have to say no to things ( which is fairly regularly, as at my age most of my friends are not in school), there is more understanding. 
+
+As far as conflicts with time for meal prep, I just don’t meal prep. I wind up eating more instant and less healthy food.
+If left: Currently, I work in retail and I would probably continue to do so. I joined computing to get out of this area of work, but it would be an easy fallback if I left.
+Leave-Reason-Other: nan
+
+[Student 134]
+Conflicts: Working
+Resolve: Cut back the hours I work
+If left: Find a job in trades
+Leave-Reason-Other: nan
+
+[Student 135]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 136]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 137]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 138]
+Conflicts: Work and hobbies
+Resolve: Working on schoolwork during downtime at job. 
+
+Foregoing hobbies for schoolwork.
+If left: Working full time
+Leave-Reason-Other: nan
+
+[Student 139]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 140]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 141]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 142]
+Conflicts: I find my commute to take up a large portion of time. I drive to a bus pick up, then bus to school. The process takes around an hour. Then again back. 5 times a week for a total of 10 hours a week. I am gone on Monday and Wednesday from 11:30 - 6:15. Only 3 of those hours are spent in class.
+Resolve: Usually by sacrificing free time to finish class work.
+If left: No idea, this is my last ditch effect to be somebody and make a living.
+Leave-Reason-Other: nan
+
+[Student 143]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 144]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 145]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 146]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 147]
+Conflicts: Exercise/working out
+Resolve: Devise a better plan.
+If left: Cybersecurity
+Leave-Reason-Other: nan
+
+[Student 148]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 149]
+Conflicts: Gym on the day my hw is due
+Resolve: Don't gym haha
+If left: Cry and join the business folks
+Leave-Reason-Other: nan
+
+[Student 150]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 151]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 152]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 153]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 154]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 155]
+Conflicts: nan
+Resolve: nan
+If left: nan
+Leave-Reason-Other: nan
+
+[Student 156]
+Conflicts: Personal Relationships
+Resolve: Try to finish all my schoolwork responsibilities faster so I can spend time with my partner. Or do my schoolwork while together
+If left: Biomedical Engineering
+Leave-Reason-Other: nan

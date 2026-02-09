@@ -1,0 +1,14 @@
+file,header,Empathy,Clarity,Usefulness,Personalization,Continuity,NextStep,Avg,Comment
+runs_one/A_internships_k25_weak/sid6_A_internships_k25.txt,[A] topic=internships k=0 strength=weak sid=6 turns=8,2,3,4,1,5,5,3.33,Advisor provides concrete guidance but lacks specific examples and personalization.
+runs_one/A_portfolio_k25_weak/sid6_A_portfolio_k25.txt,[A] topic=portfolio k=0 strength=weak sid=6 turns=8,2,4,5,3,4,1,3.17,Advisor jumps between topics without fully addressing each question.
+runs_one/A_prerequisites_k25_weak/sid6_A_prerequisites_k25.txt,[A] topic=prerequisites k=0 strength=weak sid=6 turns=8,4,5,5,3,5,2,4.0,Advisor provides clear guidance but lacks specificity in next steps.
+runs_one/A_workload_k25_weak/sid6_A_workload_k25.txt,[A] topic=workload k=0 strength=weak sid=6 turns=8,2,4,5,3,4,5,3.83,Advisor provides clear guidance but could offer more tailored advice.
+runs_one/B_internships_k25_weak/sid6_B_internships_k25.txt,[B] topic=internships k=0 strength=weak sid=6 turns=8,4,3,5,2,1,5,3.33,Advisor provides actionable tips but lacks specific examples and personal touch.
+runs_one/B_portfolio_k25_weak/sid6_B_portfolio_k25.txt,[B] topic=portfolio k=0 strength=weak sid=6 turns=8,4,5,5,3,5,5,4.5,"Advisor provides clear guidance on building a portfolio for AI roles, but could offer more tailored advice based on the student's specific situation."
+runs_one/B_prerequisites_k25_weak/sid6_B_prerequisites_k25.txt,[B] topic=prerequisites k=0 strength=weak sid=6 turns=8,2,4,5,3,4,1,3.17,Advisor jumps between recommendations and explanations without clear progression.
+runs_one/B_workload_k25_weak/sid6_B_workload_k25.txt,[B] topic=workload k=0 strength=weak sid=6 turns=8,2,4,5,3,1,5,3.33,Advisor provided clear guidance but failed to address the student's specific situation and didn't build on previous questions.
+runs_one/C_internships_k25_weak/sid6_C_internships_k25.txt,[C] topic=internships k=0 strength=weak sid=6 turns=8,4,5,5,3,5,5,4.5,Advisor provides actionable guidance and builds on previous questions.
+runs_one/C_portfolio_k25_weak/sid6_C_portfolio_k25.txt,[C] topic=portfolio k=0 strength=weak sid=6 turns=8,2,4,5,3,4,5,3.83,Advisor provides clear guidance and actionable steps for creating an AI portfolio.
+runs_one/C_prerequisites_k25_weak/sid6_C_prerequisites_k25.txt,[C] topic=prerequisites k=0 strength=weak sid=6 turns=8,2,4,5,3,1,5,3.33,"Advisor's responses are generally clear and actionable, but lack consistency in addressing the student's question directly."
+runs_one/C_workload_k25_weak/sid6_C_workload_k25.txt,[C] topic=workload k=0 strength=weak sid=6 turns=8,2,3,4,1,5,5,3.33,Advisor provides generic advice without addressing student's specific concerns or questions.
+runs_one/D_internships_k25_weak/sid6_D_internships_k25.txt,[D] topic=internships k=25 strength=weak sid=6 turns=8,4,5,5,3,5,5,4.5,"Advisor provides actionable guidance and adapts to student's concerns, but could offer more tailored advice."

@@ -1,0 +1,7 @@
+{
+  "internships": "I’m worried my GPA might block internships and I feel stressed about next term.",
+  "prerequisites": "I want to take Operating Systems but I haven’t done CS351 yet.",
+  "portfolio": "I’m interested in AI roles but don’t know how to build a portfolio.",
+  "workload": "I feel overbooked with work and classes and need a manageable course plan.",
+  "turns": { "internships": 8, "prerequisites": 8, "portfolio": 8, "workload": 8 }
+}

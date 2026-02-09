@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+runs_one/
+runs_one_runpod/
+runs_grid/
+.env

@@ -1,0 +1,119 @@
+[
+  {
+    "attribute": "gpa",
+    "template": "I hear you: {last_student_turn} With a {gpa_bucket} GPA, some programs may be more selective. Let’s focus on one improvement lever you can control this month, like fewer overload weeks and tighter study blocks. Pick one course to stabilize first, then apply broadly in parallel."
+  },
+  {
+    "attribute": "gpa",
+    "template": "It makes sense to worry about GPA for internships. With a {gpa_bucket} GPA, you can still compete by pairing steady grade improvement with stronger evidence of skills. Tighten one routine that protects performance, and keep applications consistent. Choose one class and one project to prioritize this week."
+  },
+  {
+    "attribute": "gpa",
+    "template": "If you can move your GPA trend upward from where it is now, more doors open over time. The fastest complement is adding proof: a clean project, concise resume bullets, and targeted applications. Keep the plan simple so you can sustain it. Draft one new resume bullet from a recent project today."
+  },
+  {
+    "attribute": "gpa",
+    "template": "I get why this feels high-stakes. When GPA is under pressure, the risk is spiraling from stress rather than ability. Use supports early instead of waiting for a bad week. Book one office-hours or tutoring session and ask what to change first."
+  },
+  {
+    "attribute": "gpa",
+    "template": "You’re motivated, and that matters. With a {gpa_bucket} GPA, the goal is consistency and fewer avoidable mistakes. Focus on one repeatable weekly system: planned review, fewer late submissions, and quick feedback loops. Set one weekly check-in time and protect it."
+  },
+
+  {
+    "attribute": "course_load",
+    "template": "I hear the stress in what you said: {last_student_turn} If your workload is {work_load}, a lighter plan usually improves learning and grades. Pick fewer high-friction commitments and protect deep work time. Identify one thing you can drop or pause this week."
+  },
+  {
+    "attribute": "course_load",
+    "template": "A good pacing plan is to pair one harder class with lighter tasks and fixed study blocks. If your confidence is {confidence_level}, structure matters more than intensity. Keep the schedule predictable so you don’t rely on last-minute pushes. Block two focused study sessions on your calendar today."
+  },
+  {
+    "attribute": "course_load",
+    "template": "If you reduce one non-school commitment, your course load becomes more manageable and your GPA trend improves. Since your workload is {work_load}, aim for fewer context switches and cleaner weekly routines. Add one support action like tutoring or office hours early. Choose one support resource and schedule it this week."
+  },
+  {
+    "attribute": "course_load",
+    "template": "For next term, your best plan is a balanced mix that matches your confidence and time. With {confidence_level} confidence and {work_load} workload, avoid stacking multiple heavy courses at once. Build in buffer weeks for exams and projects. Write a simple weekly plan with two protected study blocks."
+  },
+  {
+    "attribute": "course_load",
+    "template": "That stress cue is important: {last_student_turn} Use a support resource early and plan a midpoint check-in to adjust before things snowball. Keep the plan realistic based on your {work_load} workload. Small changes beat big overhauls. Send one message to an advisor or TA today."
+  },
+
+  {
+    "attribute": "prereq",
+    "template": "If a prerequisite is missing, the safest move is to complete it before the target course. That avoids registration surprises and keeps your plan stable. If you’re unsure, confirm the policy rather than guessing. Email the department or advisor to verify prereq rules today."
+  },
+  {
+    "attribute": "prereq",
+    "template": "Sometimes there’s an alternate path like a waiver or placement route, but it depends on the department. Don’t rely on assumptions because registration systems can enforce rules automatically. Confirm the exact option and timeline before building your schedule around it. Ask the coordinator what waiver paths exist for your case."
+  },
+  {
+    "attribute": "prereq",
+    "template": "If you want to take a target course soon, list the prerequisites and map a clean order across terms. This prevents last-minute blocks and overloads. Keep one backup option in case a course is full. Make a one-page prereq plan and share it with your advisor."
+  },
+  {
+    "attribute": "prereq",
+    "template": "I hear the concern: {last_student_turn} You usually have three options—take the missing prereq, choose an approved substitute, or defer the target course. The right choice depends on your workload and timeline. Don’t gamble on registration exceptions. Ask advising which substitute options are officially allowed."
+  },
+  {
+    "attribute": "prereq",
+    "template": "There’s a real registration risk if prerequisites aren’t met, and it can cause drops or holds. The clean approach is to verify early and document what you’re told. That saves time and stress later. Request a quick prereq confirmation from the department office."
+  },
+
+  {
+    "attribute": "career",
+    "template": "If you’re interested in a specific area, build experience with one small hands-on activity and one showcase artifact. Pair that with a short list of roles you’re targeting so your resume reads clearly. Keep it simple and repeatable. Pick one role title and align one project to it today."
+  },
+  {
+    "attribute": "career",
+    "template": "Even if your GPA bucket is {gpa_bucket}, you can still build a strong internship profile through projects, networking, and consistent applications. Focus on proof of skills and a clean story. Avoid self-rejecting before you check requirements. Shortlist a few roles and tailor one application today."
+  },
+  {
+    "attribute": "career",
+    "template": "Translate coursework into resume bullets by describing outcomes, tools, and what you improved. Use one portfolio item that shows real capability, not just class completion. Keep the bullets concrete and readable. Rewrite one resume bullet using action and impact today."
+  },
+  {
+    "attribute": "career",
+    "template": "I hear the hesitation: {last_student_turn} Informational chats help you learn what matters and reduce guesswork. Keep it small: ask a few people and reuse two strong questions. This builds momentum fast. Message one alum or senior student for a short chat this week."
+  },
+  {
+    "attribute": "career",
+    "template": "A simple four-week plan works best: stabilize your routine, polish one artifact, apply consistently, then refine based on responses. Match the plan to your intent level {intent_level} so it stays realistic. Consistency beats intensity here. Write a one-page weekly plan and start it today."
+  },
+
+  {
+    "attribute": "intro",
+    "template": "Thanks for meeting today. What would you like to make progress on this term—GPA, course load, internships, or research? I can help you choose one next step that fits your situation. Tell me the most urgent concern right now."
+  },
+  {
+    "attribute": "intro",
+    "template": "Let’s set an agenda. If your goal is internships, we’ll align projects and applications; if it’s course planning, we’ll balance workload and prerequisites. We’ll pick one small next step you can do this week. Which should we tackle first?"
+  },
+  {
+    "attribute": "intro",
+    "template": "Here’s how we’ll proceed: I’ll listen, then we’ll pick one small next step for this week. What’s the most pressing issue on your mind about next term? Share one detail that makes it feel hard right now."
+  },
+
+  {
+    "attribute": "five_whys",
+    "template": "I hear you: {last_student_turn} Why do you think this is happening? Keep it to one sentence. Then we’ll go one layer deeper. Answer with your best guess."
+  },
+  {
+    "attribute": "five_whys",
+    "template": "What’s the main reason behind that? One sentence is enough. Try to name the most direct cause. Then we’ll look for a small lever to change."
+  },
+  {
+    "attribute": "five_whys",
+    "template": "If that’s the reason, why is that factor hard to change right now? One sentence. Be specific about the blocker. Then we’ll find a workaround."
+  },
+  {
+    "attribute": "five_whys",
+    "template": "Given what you said, what’s the root cause blocking progress? One sentence. Don’t overthink it. Pick the most honest answer."
+  },
+  {
+    "attribute": "five_whys",
+    "template": "Based on your last point, what is one small action you can take this week to address the root cause? Propose one action. Keep it realistic. Then we’ll refine it."
+  }
+]
